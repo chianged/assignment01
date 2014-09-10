@@ -29,6 +29,6 @@
  
 **Software.** You will need to install:
 
-* R
+* [R](http://mirrors.nics.utk.edu/cran/)
 
 * Rstudio
