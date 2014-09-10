@@ -31,4 +31,4 @@
 
 * [R](http://mirrors.nics.utk.edu/cran/)
 
-* Rstudio
+* [Rstudio](http://www.rstudio.com/)
