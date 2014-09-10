@@ -1,5 +1,7 @@
 ## MICRBIOL 612:  Microbial Informatics
 ***
+![](/Users/ednachiang2/Downloads/bioinformatics.jpg)
+
 #### Instructor:  Patrick D. Schloss, PhD
 #### Office hours:  Mondays (3:00-5:00 PM) in 1520A MSRB I
 
